@@ -1,4 +1,4 @@
-﻿food_production_Entity,food_production_Code,food_production_Year,food_production_Value,food_production_coicop,food_production_Description
+﻿Entity,Code,Year,Value,coicop,Description
 Afghanistan,AFG,1961,10000,CP01147,Eggs
 Afghanistan,AFG,1961,129420,CP0112,Meat
 Afghanistan,AFG,1961,3695000,CP0111,Bread and cereals
